@@ -1,6 +1,6 @@
 - 👋 Hi, I’m sotomonte
-- 👀 I’m interested in VFX and animation. Also coding.
-- 🌱 I’m currently learning Unreal Engine, Python and JS. I'm in an engeneering degree :)
+- 👀 I’m interested in VFX, animation, and coding.
+- 🌱 I’m currently studying a degree in Animation and VFX, I also do freelance.
 - 📫 You can contact me on discord, sotomonte#9951
 
 <!---
